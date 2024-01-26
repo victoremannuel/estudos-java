@@ -1,10 +1,10 @@
 package br.com.victor.j0002OrintacaoObjetos.estudo;
 
-import br.com.victor.j0002OrintacaoObjetos.estudo.br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
-import br.com.victor.j0002OrintacaoObjetos.estudo.br.com.alura.screenmatch.calculos.FiltroRecomendacao;
-import br.com.victor.j0002OrintacaoObjetos.estudo.br.com.alura.screenmatch.modelos.Episodio;
-import br.com.victor.j0002OrintacaoObjetos.estudo.br.com.alura.screenmatch.modelos.Filme;
-import br.com.victor.j0002OrintacaoObjetos.estudo.br.com.alura.screenmatch.modelos.Serie;
+import br.com.victor.j0002OrintacaoObjetos.estudo.screenmatch.calculos.CalculadoraDeTempo;
+import br.com.victor.j0002OrintacaoObjetos.estudo.screenmatch.calculos.FiltroRecomendacao;
+import br.com.victor.j0002OrintacaoObjetos.estudo.screenmatch.modelos.Episodio;
+import br.com.victor.j0002OrintacaoObjetos.estudo.screenmatch.modelos.Filme;
+import br.com.victor.j0002OrintacaoObjetos.estudo.screenmatch.modelos.Serie;
 
 public class Principal {
     public static void main(String[] args) {
