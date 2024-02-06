@@ -1,3 +1,6 @@
 .DS_Store
 .vscode
 estudos/target
+/target
+estudos/src/main/java/br/com/victor/j0013Tests/demo/target
+j0013Tests/demo/target
