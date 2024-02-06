@@ -4,6 +4,7 @@ import br.com.victor.j0004ConsumindoApiGravandoArqErros.estudo.screenmatch.excec
 import com.google.gson.annotations.SerializedName;
 
 
+
 public class Titulo implements Comparable<Titulo> {
     @SerializedName("Title")
     private String nome;
